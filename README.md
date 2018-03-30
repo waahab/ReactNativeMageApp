@@ -1,0 +1,2 @@
+# ReactNativeMageApp
+Practise Project
